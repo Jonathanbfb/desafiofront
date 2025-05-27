@@ -1,10 +1,10 @@
-// src/main.ts
+
 import { createApp } from 'vue'
 import App from './App.vue'
 import { createPinia } from 'pinia'
 import { router } from './router'
 
-// Vuetify
+
 import { createVuetify } from 'vuetify'
 import 'vuetify/styles'
 import '@mdi/font/css/materialdesignicons.css'

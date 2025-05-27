@@ -28,6 +28,11 @@ Este projeto é um sistema de recomendação ao vivo de filmes, inspirado no des
 
 ### Instalação
 
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+
 ```bash
 git clone https://github.com/Jonathanbfb/desafiofront.git
 cd watchflix-frontend
